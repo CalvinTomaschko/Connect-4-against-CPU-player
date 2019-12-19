@@ -1,6 +1,6 @@
 //Connect4CPUplayer
 
-//Clicking on a playable tile iniates the CPU player to chose their tile
+//Clicking on a playable tile initates the CPU player to choose their tile
 //The CPU has a % chance of playing random playeable spots or to play 
 //adjacent to a previous tile
 //moves and win states are printed in console
