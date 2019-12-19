@@ -5,7 +5,7 @@ The classic game done as tiles rather than dropping discs. The CPU has a small p
 
 # Demo gif/images
 
-Insert gifs
+<img src="images/Connect4CPUplayer.gif" height = "550" alt="Moving Gif of gameplay">
 
 
 # Demo site 
